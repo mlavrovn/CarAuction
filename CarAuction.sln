@@ -11,9 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarAuction.Infrastructure",
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{51DF46D2-1DA3-464C-B292-2B4CE5323796}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarAuction.Application.Tests", "CarAuction.Application.Tests\CarAuction.Application.Tests.csproj", "{7EAC5B0F-DD9A-4EE8-8B3C-45946941E116}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarAuction.Application.Tests", "tests\CarAuction.Application.Tests\CarAuction.Application.Tests.csproj", "{7EAC5B0F-DD9A-4EE8-8B3C-45946941E116}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarAuction.Domain.Tests", "CarAuction.Domain.Tests\CarAuction.Domain.Tests.csproj", "{FE8A9B50-1DA0-48E7-B552-0EC234B34CBE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarAuction.Domain.Tests", "tests\CarAuction.Domain.Tests\CarAuction.Domain.Tests.csproj", "{FE8A9B50-1DA0-48E7-B552-0EC234B34CBE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DC254A71-3A5B-4F93-88BC-7F6E003B804A}"
 	ProjectSection(SolutionItems) = preProject

@@ -20,7 +20,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CarAuction.Domain\CarAuction.Domain.csproj" />
+    <ProjectReference Include="..\..\CarAuction.Application\CarAuction.Application.csproj" />
+    <ProjectReference Include="..\..\CarAuction.Domain\CarAuction.Domain.csproj" />
   </ItemGroup>
 
   <ItemGroup>
