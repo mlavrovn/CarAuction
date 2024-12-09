@@ -5,7 +5,6 @@ namespace CarAuction.Infrastructure.Repositories
 {
     public class VehicleRepository : IVehicleRepository
     {
-
         private List<Vehicle> _vehicles = new List<Vehicle>();
 
         public Vehicle Add(Vehicle entity)
